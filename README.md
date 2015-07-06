@@ -1,1 +1,1 @@
-# app3
+app3 for testing service discovery.
